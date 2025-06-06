@@ -145,5 +145,4 @@ The system includes robust error handling for:
 - The system uses asynchronous processing to maintain real-time performance
 
 ## License
-
-[Add your license information here]
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software with attribution.
