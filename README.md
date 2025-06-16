@@ -138,6 +138,7 @@ The system includes robust error handling for:
 - Resource cleanup on exit
 
 ## Notes
+-simple dress model is a updated version of the previous version
 
 - The system is designed to work with multiple cameras
 - Only the entrance camera (index 0) is guaranteed to work
